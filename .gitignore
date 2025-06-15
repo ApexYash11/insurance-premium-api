@@ -4,9 +4,11 @@ __pycache__/
 *.pyo
 *.pyd
 *.db
+*.sqlite3
+
+# Environment Files
 .env
 .env.*
-*.sqlite3
 
 # Virtual Environments
 env/
