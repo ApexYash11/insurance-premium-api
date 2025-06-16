@@ -28,7 +28,7 @@ pip install -r requirements.txt
 4. Run the FastAPI backend
 python insurance.py
 
-Go to: http://127.0.0.1:8000/docs for Swagger UI.
+Go to: http://51.20.254.126:8000/docs for Swagger UI
 
 5. Run the Streamlit frontend
 streamlit run frontend.py
